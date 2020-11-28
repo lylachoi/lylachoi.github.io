@@ -20,7 +20,7 @@ title                    : "Lyla's Lab;"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lyla Choi"
-description              : "An amazing website."
+description              : "Data Science;"
 url                      : # the base hostname & protocol for your site e.g. "https://lylachoi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "lylachoi/lylachoi.github.io"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lyla Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Art & Culture > **Data Scientist** "
+  location         : "South Korea"
+  email            : "lylachoi88@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
